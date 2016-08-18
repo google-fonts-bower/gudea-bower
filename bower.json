@@ -1,0 +1,17 @@
+{
+    "name": "gudea-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Agustina Mingote"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/gudea-bower.git"
+    },
+    "description": "Gudea font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
